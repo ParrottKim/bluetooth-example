@@ -1,6 +1,8 @@
-# bluetooth_example
+# Bluetooth Example
 
-A new Flutter project.
+Bluetooth communication application created with Flutter.
+It was developed to communicate CAN bus with the vehicle's OBD in a mobile environment.
+Support Android only.
 
 ## Getting Started
 
